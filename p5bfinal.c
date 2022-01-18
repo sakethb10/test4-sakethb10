@@ -27,7 +27,7 @@ void output(int a, int b, int c, int large)
 int main()
 {
   int a,b,c;
-  int large=0;
+  int large;
   printf("Enter the value for a: ");
   scanf("%d", &a);
   printf("Enter the value for b: ");
